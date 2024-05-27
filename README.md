@@ -1,5 +1,3 @@
-# George Robinson - @grobinson-grafana
-
 Hi! I'm George! 👋
 
 I am a Software Engineer 👨‍💻 at Grafana Labs ⛺️ working on Loki, a horizontally scalable, highly available, multi-tenant log aggregation system inspired by Prometheus.
